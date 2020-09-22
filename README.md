@@ -10,3 +10,6 @@
 4. Extracted product ratings
 
 ### Finally stored the extracted data into CSV file and JSON format as well.
+![output_csv_file](https://user-images.githubusercontent.com/19407823/93933660-97d05000-fd3f-11ea-9005-609b89795902.PNG)
+![output_json_file](https://user-images.githubusercontent.com/19407823/93933706-a6b70280-fd3f-11ea-8c0e-b15eb4e4f004.PNG)
+
